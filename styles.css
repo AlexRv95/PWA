@@ -1,0 +1,34 @@
+/* Estilos personalizados */
+.logo {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; /* Esto crea el círculo */
+    object-fit: cover; 
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    font-family: 'Pacifico', cursive;
+    color: #FFD700;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 15px;
+    background-color: #f8f9fa;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .price {
+    font-size: 1.2rem;
+    color: #FF5733;
+    font-weight: bold;
+  }
+  

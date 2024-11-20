@@ -1,0 +1,27 @@
+{
+    "name": "Taquitos Anett",
+    "short_name": "Taquitos",
+    "description": "Los mejores tacos de la ciudad",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#343a40",
+    "icons": [
+      {
+        "src": "/SW/images/logoTA.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      },
+      {
+        "src": "/SW/images/logoTA2.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/SW/images/logoTA3.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      }
+    ]
+  }
+  
